@@ -8,4 +8,7 @@ public interface FunctionInterfaceTest {
     public static void test3(){
 
     }
+    public static void test4(){
+
+    }
 }

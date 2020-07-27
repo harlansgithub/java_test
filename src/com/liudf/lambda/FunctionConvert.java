@@ -4,6 +4,9 @@ import sun.rmi.server.InactiveGroupException;
 
 import java.util.function.Function;
 
+/**
+ * 数据转换
+ */
 public class FunctionConvert {
     public static void main(String[] args) {
         int i  = function("1000",(String something)->{
